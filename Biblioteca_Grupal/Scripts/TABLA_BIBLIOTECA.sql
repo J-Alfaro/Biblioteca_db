@@ -1,0 +1,3 @@
+
+INSERT INTO  (IDBIBLIOTECA, NOMBRE, DIRECCION, TELEFONO, WEB)
+VALUES ('Biblioteca','Calle Granada S/N','52254525','www.upt.pe');
